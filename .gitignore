@@ -477,3 +477,4 @@ $RECYCLE.BIN/
 *.lnk
 
 /C#
+/net_core_based
